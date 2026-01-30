@@ -104,7 +104,20 @@ CNN-Expression_classifier/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/CNN-Expression_classifier.git
-cd CNN-Expression_classifier
+git clone https://github.com/Melckykaisha/Facial_Expression_Recognition.git
+cd Facial_Expression_Recognition
+```
 
+2️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
+```
+3️⃣ Run Streamlit
+```bash
+streamlit run app.py
+```
+4️⃣ Open the App
+
+After running the above command, your default browser will open the Streamlit interface automatically.
+Upload a facial image to see the emotion prediction and confidence scores.
 
