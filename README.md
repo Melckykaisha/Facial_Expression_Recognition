@@ -91,11 +91,11 @@ A **Streamlit-based web application** was developed to demonstrate the trained m
 
 ## 📂 Project Structure
 CNN-Expression_classifier/
-├── app.py
-├── Facial_Expression_Recognition
-├── fer2013_cnn_model.h5
-├── requirements.txt
-└── README.md
+- ├── app.py
+- ├── Facial_Expression_Recognition
+- ├── fer2013_cnn_model.h5
+- ├── requirements.txt
+- └── README.md
 
 
 ---
