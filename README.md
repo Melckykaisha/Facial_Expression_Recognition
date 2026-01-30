@@ -24,6 +24,8 @@ This project focuses on building, training, evaluating, and deploying a deep lea
 ## 📊 Dataset
 
 - **Dataset:** FER-2013
+- **Source:** Kaggle
+- **Link: https:**//www.kaggle.com/datasets
 - **Image size:** 48 × 48 pixels
 - **Image type:** Grayscale
 - **Classes:** 7
@@ -90,6 +92,7 @@ A **Streamlit-based web application** was developed to demonstrate the trained m
 ## 📂 Project Structure
 CNN-Expression_classifier/
 ├── app.py
+├── Facial_Expression_Recognition
 ├── fer2013_cnn_model.h5
 ├── requirements.txt
 └── README.md
