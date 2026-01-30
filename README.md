@@ -82,6 +82,7 @@ The analysis shows that some emotions (e.g., *fear* and *surprise*) are more dif
 A **Streamlit-based web application** was developed to demonstrate the trained model.
 
 ### Features
+- **Link:** https://facialexpressionrecognition-adv9vrru9k9zughp6ufgd4.streamlit.app/
 - Upload a facial image
 - Automatic preprocessing
 - Emotion prediction with confidence scores
