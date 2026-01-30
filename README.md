@@ -88,4 +88,20 @@ A **Streamlit-based web application** was developed to demonstrate the trained m
 ---
 
 ## 📂 Project Structure
+CNN-Expression_classifier/
+├── app.py
+├── fer2013_cnn_model.h5
+├── requirements.txt
+└── README.md
+
+
+---
+
+## ▶️ How to Run the App Locally
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/CNN-Expression_classifier.git
+cd CNN-Expression_classifier
+
 
